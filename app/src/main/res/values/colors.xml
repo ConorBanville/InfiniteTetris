@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FF070707</color>
+
+    <color name="i_block">#FF00F0F0</color>
+    <color name="j_block">#FF0000F0</color>
+    <color name="l_block">#FFF0A000</color>
+    <color name="o_block">#FFF0F000</color>
+    <color name="s_block">#FF00F000</color>
+    <color name="t_block">#FFA000F0</color>
+    <color name="z_block">#FFF00000</color>
+</resources>
